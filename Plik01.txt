@@ -2,4 +2,5 @@ Zmiana01 - Zmiana06
 Zmiana02 Zmiana 02a
 Zmiana03
 Zmiana04
-Zmiana05
+Zmiana057
+Dodano asystenta pomocy
